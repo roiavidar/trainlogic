@@ -1,0 +1,13 @@
+.contact-root ul {
+    margin: 0;
+    list-style-type: none;
+}
+
+.contact-root > ul {
+    padding: 0;
+}
+
+.contact-root .contactName:active {
+    background-color: blue;
+    color: white;
+}
